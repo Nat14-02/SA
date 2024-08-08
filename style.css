@@ -1,0 +1,15 @@
+#yo{
+    width: 100%;
+    bottom: 0;
+    color:rgb(255, 187, 0);
+    background-color: rgb(255, 30, 0);
+    font-size: large;
+}
+body{
+    background-color: rgb(255, 232, 127);
+    font-family:oswald;
+}
+button{
+    width: 20%;
+    color: rgb(109, 1, 1) !important;
+}
